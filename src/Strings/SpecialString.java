@@ -1,3 +1,5 @@
+package Strings;
+
 /**
  * given a String s and its length n, find the number of substrings satisfying either:
  * - all characters are the same (aaa)
